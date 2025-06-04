@@ -1,6 +1,6 @@
 nginx
 mysql:5.7
 mysql
-calico/cni:v3.25.0-127
-calico/node:v3.25.0-127
-calico/kube-controllers:v3.25.0-127
+calico/cni:v3.25.0
+calico/node:v3.25.0
+calico/kube-controllers:v3.25.0
