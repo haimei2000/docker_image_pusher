@@ -4,3 +4,4 @@ mysql
 calico/cni:v3.25.0
 calico/node:v3.25.0
 calico/kube-controllers:v3.25.0
+mysql:8.4
